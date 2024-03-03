@@ -13,10 +13,10 @@ During my journey in Peking university, I focus on developing robust, efficient 
 
 Education
 ======
-- 2021.09 - 2024.06(expected) Peking University
- M.S. student in College of Engineering
- Advisor: [Guangming Xie(谢广明)](https://www.coe.pku.edu.cn/teaching/all_time/7139.html)
-Research topics: Information Retrieval, Recommender systems, Deep Reinforcement Learning.
+- 2021.09 - 2024.06(expected) Peking University<br>
+ M.S. student in College of Engineering<br>
+ Advisor: [Guangming Xie(谢广明)](https://www.coe.pku.edu.cn/teaching/all_time/7139.html)<br>
+Research topics: Information Retrieval, Recommender systems, Deep Reinforcement Learning<br>
 -
 - 2021.09-2024.06 
   
