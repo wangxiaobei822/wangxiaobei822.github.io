@@ -13,6 +13,18 @@ During my journey in Peking university, I focus on developing robust, efficient 
 
 Education
 ======
+<div align="center">
+    <img src="pku.png" width="400"/><br>
+</div>
+
+|        |                                                              |
+| ------ | ------------------------------------------------------------ |
+| Time   | 2021.09-2024.06(expected)                                    |
+| School | [Peking University](https://www.pku.edu.cn/)                |
+| Major  | M.S. in [College of Engineering](https://www.coe.pku.edu.cn/) |
+| Advisor| [Guangming Xie](https://www.coe.pku.edu.cn/teaching/all_time/7139.html)|
+| Research Topics | Information Retrieval, Recommender systems, Deep Reinforcement Learning|
+| Thesis | Research on Long-term Value of Items in Reinforcement Learning-based Recommendation Systems|
 
 - 2021.09-2024.06(expected)   [Peking University](https://www.pku.edu.cn/)<br>
  M.S. student in [College of Engineering](https://www.coe.pku.edu.cn/)<br>
