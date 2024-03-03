@@ -13,7 +13,9 @@ During my journey in Peking university, I focus on developing robust, efficient 
 
 Education
 ======
-- 2021.09-2024.06(expected)  <p align="right">[Peking University](https://www.pku.edu.cn/)</p><br>
+- 2021.09-2024.06(expected) <p align="right">[Peking University](https://www.pku.edu.cn/)</p>
+ M.S. student in [College of Engineering](https://www.coe.pku.edu.cn/)
+- 2021.09-2024.06(expected) [Peking University](https://www.pku.edu.cn/)<br>
  M.S. student in [College of Engineering](https://www.coe.pku.edu.cn/)<br>
  Advisor: [Guangming Xie](https://www.coe.pku.edu.cn/teaching/all_time/7139.html)<br>
 Research topics: Information Retrieval, Recommender systems, Deep Reinforcement Learning<br>
