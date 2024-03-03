@@ -11,6 +11,16 @@ Here is Xiaobei Wang(王潇北)’s Page. I’m currently a graduate student in 
 
 During my journey in Peking university, I focus on developing robust, efficient and practical reinforcement learning algorithms for recommender systems. I am also interested in the application of deep learning and reinforcement learning in practical Finance or Economics problems like Financial Text Analysis and Stock Image Forecasting.
 
+Education
+======
+- 2021.09 - 2024.06(expected) Peking University
+ M.S. student in College of Engineering
+ Advisor: [Guangming Xie(谢广明)](https://www.coe.pku.edu.cn/teaching/all_time/7139.html)
+Research topics: Information Retrieval, Recommender systems, Deep Reinforcement Learning.
+-
+- 2021.09-2024.06 
+  
+  - mainly 
 
 
 
