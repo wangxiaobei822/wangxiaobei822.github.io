@@ -13,8 +13,6 @@ During my journey in Peking university, I focus on developing robust, efficient 
 
 Education
 ======
-![](https://github.com/wangxiaobei822/wangxiaobei822.github.io/edit/master/images/pku.png)
-
 
 - 2021.09-2024.06(expected)   [Peking University](https://www.pku.edu.cn/)<br>
  M.S. student in [College of Engineering](https://www.coe.pku.edu.cn/)<br>
