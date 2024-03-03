@@ -13,12 +13,12 @@ During my journey in Peking university, I focus on developing robust, efficient 
 
 Education
 ======
-- 2021.09-2024.06(expected)  [Peking University](https://www.pku.edu.cn/)<br>
+- 2021.09-2024.06(expected)  <p align="right">[Peking University](https://www.pku.edu.cn/)</p><br>
  M.S. student in [College of Engineering](https://www.coe.pku.edu.cn/)<br>
  Advisor: [Guangming Xie](https://www.coe.pku.edu.cn/teaching/all_time/7139.html)<br>
 Research topics: Information Retrieval, Recommender systems, Deep Reinforcement Learning<br>
 Thesis: Research on Long-term Value of Items in Reinforcement Learning-based Recommendation Systems.
-- 2017.09-2021.06 [TUST](https://www.tust.edu.cn/)(TianJin University of Science & Technology)<br>
+- 2017.09-2021.06 <p align="right">[TUST](https://www.tust.edu.cn/)(TianJin University of Science & Technology)</p><br>
   B.S. student in [College of Mechanical Engineering](https://jxxy.tust.edu.cn/)<br>
  Advisor: Delei Fang<br>
 Research topics: Robot, Automatic Control, Mathematical Modeling<br>
