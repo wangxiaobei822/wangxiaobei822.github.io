@@ -59,6 +59,10 @@ Projects
 - Value Function Decomposition in Markov Recommendation Process (Work was done at Kuaishou Technology)<br>
   ![](../images/TD.png)
 
+- LLM(Large Language Model) for TikTok E-Commerce Network Broadcast (Work was done at ByteDance)<br>
+
+- 
+
   
 
 
