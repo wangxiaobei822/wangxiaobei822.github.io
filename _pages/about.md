@@ -51,9 +51,18 @@ Research topics: Large-scale training frameworks
 
 Projects
 ======
-- [Future Impact Decomposition in Request-level Recommendations](https://arxiv.org/abs/2401.16108)<br>
-  ![](../images/itema2c.png)
+- [Future Impact Decomposition in Request-level Recommendations](https://arxiv.org/abs/2401.16108) (Work was done at Kuaishou Technology)<br>
+  ![](../images/item.png)
+  
+  
 
+- Value Function Decomposition in Markov Recommendation (Process Work was done at Kuaishou Technology)<br>
+  ![](../images/TD.png)
+
+  
+
+
+  
 AWARDS & HONORS
 ------
 
