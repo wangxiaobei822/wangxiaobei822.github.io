@@ -51,7 +51,7 @@ Research topics: Large-scale training frameworks
 
 Projects
 ======
-- 
+- ![avatar](../images/itema2c.png)
 
 AWARDS & HONORS
 ------
