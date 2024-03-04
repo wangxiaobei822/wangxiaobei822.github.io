@@ -30,20 +30,20 @@ Thesis: Control and simulation analysis of a hydraulically driven legged robot.
 INDUSTRY EXPERIENCES
 ======
 - 2023.06-2024.03 Kuaishou(快手)<br>
-Research Intern 研究实习生<br>
+Research Intern(研究实习生)<br>
 Advisor: Shuchang Liu, Qingpeng Cai.<br>
 Research topics: Recommender system, Deep Reinforcement Learning
 
 
 - 2023.03 - 2023.06  ByteDance(字节跳动)<br>
- Intern 算法实习生<br>
+ Intern(算法实习生)<br>
  Advisor: Domgmin Ma, Tao Lin<br>
  Industry topics: Large Language Model,AIGC(AI-Generated Content)
 
 
 
 - 2022.07-2023.01 ShangHai AI Lab(上海人工智能实验室)<br>
-Research Intern 研究实习生<br>
+Research Intern(研究实习生) <br>
 Advisor: Yu Tang, Henjie Li<br>
 Research topics: Large-scale training frameworks
 
@@ -51,7 +51,8 @@ Research topics: Large-scale training frameworks
 
 Projects
 ======
-- ![avatar](../images/itema2c.png)
+- [Future Impact Decomposition in Request-level Recommendations](https://arxiv.org/abs/2401.16108)<br>
+  ![avatar](../images/itema2c.png)
 
 AWARDS & HONORS
 ------
