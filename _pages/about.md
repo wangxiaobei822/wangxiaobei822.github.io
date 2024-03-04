@@ -52,7 +52,7 @@ Research topics: Large-scale training frameworks
 Projects
 ======
 - [Future Impact Decomposition in Request-level Recommendations](https://arxiv.org/abs/2401.16108)<br>
-  ![](../images/itema2c.png width=60%)
+  ![](../images/itema2c.png)
 
 AWARDS & HONORS
 ------
