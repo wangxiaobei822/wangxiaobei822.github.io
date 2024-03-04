@@ -56,7 +56,7 @@ Projects
   
   
 
-- Value Function Decomposition in Markov Recommendation (Process Work was done at Kuaishou Technology)<br>
+- Value Function Decomposition in Markov Recommendation Process (Work was done at Kuaishou Technology)<br>
   ![](../images/TD.png)
 
   
