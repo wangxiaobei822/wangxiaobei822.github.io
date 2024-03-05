@@ -53,15 +53,23 @@ Projects
 ======
 - [Future Impact Decomposition in Request-level Recommendations](https://arxiv.org/abs/2401.16108) (Work was done at Kuaishou Technology)<br>
   ![](../images/item.png)
+  The paper is submitted to KDD 2024(Ads track)
+  
   
   
 
 - Value Function Decomposition in Markov Recommendation Process (Work was done at Kuaishou Technology)<br>
   ![](../images/TD.png)
+  The paper is submitted to KDD 2024(research track)
+  
 
 - LLM(Large Language Model) for TikTok E-Commerce Network Broadcast (Work was done at ByteDance)<br>
 
-- 
+
+
+- Financial Text Analysis and Stock Image Forecasting (Work was done at Finlab in Peking University)<br>
+
+
 
 - AutoScale: Automated Training and Evaluating Large-scale Models with Extendable Modules beyond 3D Parallel (Work was done at Shanghai AI Lab)<br>
 ![](../images/AutoScale.png)
