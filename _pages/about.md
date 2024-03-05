@@ -64,7 +64,7 @@ Projects
 - 
 
 - AutoScale: Automated Training and Evaluating Large-scale Models with Extendable Modules beyond 3D Parallel (Work was done at Shanghai AI Lab)<br>
-![](../images/TD.png)
+![](../images/AutoScale.png)
   
 
 
