@@ -9,7 +9,7 @@ redirect_from:
 
 <span style="font-family: Helvetica"> Here is Xiaobei Wang(王潇北)’s Page. I’m currently a graduate student in [College of Engineering(工学院)](https://www.coe.pku.edu.cn/) at [Peking University(北京大学)](https://www.pku.edu.cn/) , supervised by [Prof. Guangming Xie(谢广明)](https://www.coe.pku.edu.cn/teaching/all_time/7139.html). My research interest mainly include Deep Reinforcement Learning, AI for Finance, Recommender Systems, Data Mining and LLM(Large Language Model).</span>
 
-<span style="font-family: Calibri"> During my journey in Peking university, I focus on developing robust, efficient and practical reinforcement learning algorithms for recommender systems. I am also interested in the application of deep learning and reinforcement learning in practical Finance or Economics problems like Financial Text Analysis and Stock Image Forecasting.</span>
+ During my journey in Peking university, I focus on developing robust, efficient and practical reinforcement learning algorithms for recommender systems. I am also interested in the application of deep learning and reinforcement learning in practical Finance or Economics problems like Financial Text Analysis and Stock Image Forecasting.
 
 Education
 ======
@@ -56,17 +56,16 @@ Projects
 ======
 - **[Future Impact Decomposition in Request-level Recommendations](https://arxiv.org/abs/2401.16108)** (Work was done at Kuaishou Technology)<br>
   ![](../images/item.png)
-  We specify the challenge of inconsistency between users' item-wise view and the recommender system's list-wise view. To solve the challenges mentioned above, we propose an item-decomposed advantage actor-critic framework and verify its superiority on multiple public datasets and an online A/B test.<br>
-  The paper is submitted to KDD 2024(Ads track)
+  - We specify the challenge of inconsistency between users' item-wise view and the recommender system's list-wise view. To solve the challenges mentioned above, we propose an item-decomposed advantage actor-critic framework and verify its superiority on multiple public datasets and an online A/B test.<br>
+  - <span style="font-family: Calibri">The paper is submitted to KDD 2024(Ads track)</span>
   
   
   
 
 - **Value Function Decomposition in Markov Recommendation Process** (Work was done at Kuaishou Technology)<br>
   ![](../images/TD.png)
-  We specify the challenge of sub-optimal TD learning under the mixed random factors from policy and user environment and propose a decomposed TD learning framework that separately addresses the two random factors and empirically shows its superiority in online MRP. <br>
-
-  The paper is submitted to KDD 2024(research track)
+  - We specify the challenge of sub-optimal TD learning under the mixed random factors from policy and user environment and propose a decomposed TD learning framework that separately addresses the two random factors and empirically shows its superiority in online MRP. <br>
+  - <span style="font-family: Calibri">The paper is submitted to KDD 2024(research track)</span>
 
 - **Financial Text Analysis and Stock Image Forecasting (Work was done at Finlab in Peking University)**<br>
 
@@ -84,7 +83,7 @@ Projects
 
 - AutoScale: Automated Training and Evaluating Large-scale Models with Extendable Modules beyond 3D Parallel (Work was done at Shanghai AI Lab)<br>
 ![](../images/AutoScale.png)
- We propose a novel framework, AutoScale, getting rid of the dependence on the mathematical models of current auto parallel algorithms. AutoScale consists of three extendable modules, namely Search Space, Cost Model, and Search Module, which regards the 3D Parallel from a unified formulation and utilizes paralleled search algorithms to scale search modules automatically.  
+  - We propose a novel framework, AutoScale, getting rid of the dependence on the mathematical models of current auto parallel algorithms. AutoScale consists of three extendable modules, namely Search Space, Cost Model, and Search Module, which regards the 3D Parallel from a unified formulation and utilizes paralleled search algorithms to scale search modules automatically.  
 
 
 
