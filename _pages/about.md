@@ -16,7 +16,7 @@ Education
 
 - <div style="display: flex; justify-content: space-between;">
     <div><strong>2021.09-2024.06(expected)</strong></div>
-    <div style="margin-left: auto;"><strong>Peking University</strong></div>
+    <div style="margin-left: auto;"><strong>PKU(Peking University)</strong></div>
   - M.S. student in College of Engineering<br>
   - Advisor: Guangming Xie<br>
   - Research topics: Information Retrieval, Recommender systems, Deep Reinforcement Learning<br>
