@@ -9,12 +9,12 @@ redirect_from:
 
 <span style="font-family: Helvetica"> Here is Xiaobei Wang(王潇北)’s Page. I’m currently a graduate student in [College of Engineering(工学院)](https://www.coe.pku.edu.cn/) at [Peking University(北京大学)](https://www.pku.edu.cn/) , supervised by [Prof. Guangming Xie(谢广明)](https://www.coe.pku.edu.cn/teaching/all_time/7139.html). My research interest mainly include Deep Reinforcement Learning, AI for Finance, Recommender Systems, Data Mining and LLM(Large Language Model).</span>
 
-During my journey in Peking university, I focus on developing robust, efficient and practical reinforcement learning algorithms for recommender systems. I am also interested in the application of deep learning and reinforcement learning in practical Finance or Economics problems like Financial Text Analysis and Stock Image Forecasting.
+<span style="font-family: Calibri"> During my journey in Peking university, I focus on developing robust, efficient and practical reinforcement learning algorithms for recommender systems. I am also interested in the application of deep learning and reinforcement learning in practical Finance or Economics problems like Financial Text Analysis and Stock Image Forecasting.</span>
 
 Education
 ======
 
-- 2021.09-2024.06(expected)   [Peking University](https://www.pku.edu.cn/)<br>
+- <span style="font-family: Arial"> 2021.09-2024.06(expected)   [Peking University](https://www.pku.edu.cn/)</span><br>
  M.S. student in [College of Engineering](https://www.coe.pku.edu.cn/)<br>
  Advisor: [Guangming Xie](https://www.coe.pku.edu.cn/teaching/all_time/7139.html)<br>
 Research topics: Information Retrieval, Recommender systems, Deep Reinforcement Learning<br>
