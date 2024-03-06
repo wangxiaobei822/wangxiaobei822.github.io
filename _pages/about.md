@@ -34,20 +34,23 @@ Education
 INDUSTRY EXPERIENCES
 ======
 - <div style="display: flex; justify-content: space-between;">
-    <div><strong>2023.06-2024.03 &emsp;&emsp;&emsp;&emsp;&emsp;Research Intern(研究实习生)</strong></div>
+    <div><strong>2023.06-2024.03 </strong></div>
     <div style="margin-left: auto;"><strong>Kuaishou(快手科技)</strong></div>
+  - Research Intern(研究实习生)
   - Advisor: Advisor: Shuchang Liu, Qingpeng Cai<br>
   - Research topics: Recommender system, Deep Reinforcement Learning
   
 - <div style="display: flex; justify-content: space-between;">
-    <div><strong>2023.03-2023.06 &emsp;&emsp;&emsp;&emsp;&emsp;Intern(算法实习生)</strong></div>
+    <div><strong>2023.03-2023.06 </strong></div>
     <div style="margin-left: auto;"><strong>ByteDance(字节跳动)</strong></div>
+  - Intern(算法实习生)
   - Advisor: Domgmin Ma, Tao Lin<br>
   - Industry topics: Large Language Model,AIGC(AI-Generated Content)
 
 - <div style="display: flex; justify-content: space-between;">
     <div><strong>2022.07-2023.01 &emsp;Research Intern(研究实习生)</strong></div>
     <div style="margin-left: auto;"><strong>Shanghai AI Lab(上海人工智能实验室)</strong></div>
+  - Research Intern(研究实习生)
   - Advisor: Yu Tang, Henjie Li<br>
   - Research topics: Large-scale training frameworks
 
