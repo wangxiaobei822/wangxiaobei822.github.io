@@ -23,7 +23,7 @@ Education
   - Thesis: Research on Long-term Value of Items in Reinforcement Learning-based Recommendation Systems.
 - <div style="display: flex; justify-content: space-between;">
     <div><strong>2017.09-2021.06</strong></div>
-    <div style="margin-left: auto;"><strong>TUST(TianJin University of Science & Technology)</strong</div> 
+    <div style="margin-left: auto;"><strong>TUST(TianJin University of Science & Technology)</strong></div> 
   - B.S. student in College of Mechanical Engineering<br>
   - Advisor: Delei Fang<br>
   - Research topics: Robot, Automatic Control, Mathematical Modeling<br>
@@ -46,8 +46,8 @@ INDUSTRY EXPERIENCES
   - Industry topics: Large Language Model,AIGC(AI-Generated Content)
 
 - <div style="display: flex; justify-content: space-between;">
-    <div><strong>2022.07-2023.01 &emsp;&emsp;Research Intern(研究实习生)</strong></div>
-    <div style="margin-left: auto;"><strong>ShangHai AI Lab(上海人工智能实验室)</strong></div>
+    <div><strong>2022.07-2023.01 &emsp;Research Intern(研究实习生)</strong></div>
+    <div style="margin-left: auto;"><strong>Shanghai AI Lab(上海人工智能实验室)</strong></div>
   - Advisor: Yu Tang, Henjie Li<br>
   - Research topics: Large-scale training frameworks
 
