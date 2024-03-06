@@ -19,7 +19,7 @@ Education
     <div style="margin-left: auto;"><strong>PKU(Peking University)</strong></div>
   - M.S. student in College of Engineering<br>
   - Advisor: Guangming Xie<br>
-  - Research topics: Information Retrieval, Recommender systems, Reinforcement Learning<br>
+  - Research topics: Recommender systems, Deep Reinforcement Learning<br>
   - Thesis: Research on Long-term Value of Items in Reinforcement Learning-based Recommendation Systems.
 - <div style="display: flex; justify-content: space-between;">
     <div><strong>2017.09-2021.06</strong></div>
