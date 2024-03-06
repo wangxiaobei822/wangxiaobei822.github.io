@@ -46,7 +46,7 @@ INDUSTRY EXPERIENCES
   - Industry topics: Large Language Model,AIGC(AI-Generated Content)
 
 - <div style="display: flex; justify-content: space-between;">
-    <div><strong>2022.07-2023.01 &emsp;&emsp;&emsp;&emsp;Research Intern(研究实习生)</strong></div>
+    <div><strong>2022.07-2023.01 &emsp;&emsp;Research Intern(研究实习生)</strong></div>
     <div style="margin-left: auto;"><strong>ShangHai AI Lab(上海人工智能实验室)</strong></div>
   - Advisor: Yu Tang, Henjie Li<br>
   - Research topics: Large-scale training frameworks
