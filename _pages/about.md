@@ -57,7 +57,7 @@ INDUSTRY EXPERIENCES
 
 Projects
 ======
-- **[Future Impact Decomposition in Request-level Recommendations](https://arxiv.org/abs/2401.16108)** (Work was done at Kuaishou Technology)<br>
+- **[Future Impact Decomposition in Request-level Recommendations](https://arxiv.org/abs/2401.16108)** (Work was done at Kuaishou Technology & Intelligent Biomimetic Design Lab in Peking University)<br>
   ![](../images/item.png)
   - We specify the challenge of inconsistency between users' item-wise view and the recommender system's list-wise view. To solve the challenges mentioned above, we propose an item-decomposed advantage actor-critic framework and verify its superiority on multiple public datasets and an online A/B test.<br>
   - The paper is submitted to KDD 2024(Ads track)
@@ -65,7 +65,7 @@ Projects
   
   
 
-- **Value Function Decomposition in Markov Recommendation Process** (Work was done at Kuaishou Technology)<br>
+- **Value Function Decomposition in Markov Recommendation Process** (Work was done at Kuaishou Technology & Intelligent Biomimetic Design Lab in Peking University)<br>
   ![](../images/TD.png)
   - We specify the challenge of sub-optimal TD learning under the mixed random factors from policy and user environment and propose a decomposed TD learning framework that separately addresses the two random factors and empirically shows its superiority in online MRP. <br>
   - The paper is submitted to KDD 2024(research track)
