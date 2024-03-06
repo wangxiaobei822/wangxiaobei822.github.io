@@ -38,7 +38,10 @@ Research topics: Recommender system, Deep Reinforcement Learning
 - <div style="display: flex;">
     <div style="flex-grow: 1;">2023.03 - 2023.06</div>
     <div style="margin-left: 5em;">Intern(算法实习生)</div>
-    <div style="margin-left: auto;">ByteDance(字节跳动)</div><br>
+    <div style="margin-left: auto;">ByteDance(字节跳动)</div>
+  </div>
+  <br>
+    
  Advisor: Domgmin Ma, Tao Lin<br>
  Industry topics: Large Language Model,AIGC(AI-Generated Content)
 
