@@ -35,7 +35,10 @@ Advisor: Shuchang Liu, Qingpeng Cai.<br>
 Research topics: Recommender system, Deep Reinforcement Learning
 
 
-- 2023.03 - 2023.06  ByteDance(字节跳动)<br>
+- <div style="display: flex; justify-content: space-between;">
+    <div>2023.03 - 2023.06</div>
+    <div>ByteDance(字节跳动)</div>
+</div>  <br>
  Intern(算法实习生)<br>
  Advisor: Domgmin Ma, Tao Lin<br>
  Industry topics: Large Language Model,AIGC(AI-Generated Content)
