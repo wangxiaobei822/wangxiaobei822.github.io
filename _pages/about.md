@@ -29,25 +29,23 @@ Thesis: Control and simulation analysis of a hydraulically driven legged robot.
 
 INDUSTRY EXPERIENCES
 ======
-- 2023.06-2024.03 Kuaishou(快手)<br>
-Research Intern(研究实习生)<br>
-Advisor: Shuchang Liu, Qingpeng Cai.<br>
-Research topics: Recommender system, Deep Reinforcement Learning
-
-
+- <div style="display: flex; justify-content: space-between;">
+    <div><strong>2023.06-2024.03 &emsp;&emsp;&emsp;&emsp;&emsp;Research Intern(研究实习生)</strong></div>
+    <div style="margin-left: auto;"><strong>Kuaishou(快手科技)</strong></div>
+  - Advisor: Advisor: Shuchang Liu, Qingpeng Cai<br>
+  - Research topics: Recommender system, Deep Reinforcement Learning
+  
 - <div style="display: flex; justify-content: space-between;">
     <div><strong>2023.03 - 2023.06 &emsp;&emsp;&emsp;&emsp;&emsp;Intern(算法实习生)</strong></div>
     <div style="margin-left: auto;"><strong>ByteDance(字节跳动)</strong></div>
   - Advisor: Domgmin Ma, Tao Lin<br>
   - Industry topics: Large Language Model,AIGC(AI-Generated Content)
 
-
-
-- 2022.07-2023.01 ShangHai AI Lab(上海人工智能实验室)<br>
-Research Intern(研究实习生) <br>
-Advisor: Yu Tang, Henjie Li<br>
-Research topics: Large-scale training frameworks
-
+- <div style="display: flex; justify-content: space-between;">
+    <div><strong>2022.07-2023.01 &emsp;&emsp;&emsp;&emsp;&emsp;Research Intern(研究实习生)</strong></div>
+    <div style="margin-left: auto;"><strong>ShangHai AI Lab(上海人工智能实验室)</strong></div>
+  - Advisor: Yu Tang, Henjie Li<br>
+  - Research topics: Large-scale training frameworks
 
 
 Projects
