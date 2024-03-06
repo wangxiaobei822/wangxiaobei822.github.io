@@ -18,7 +18,7 @@ Education
     <div><strong>2021.09-2024.06(expected)</strong></div>
     <div style="margin-left: auto;"><strong>Peking University</strong></div>
   - M.S. student in College of Engineering<br>
-  - Advisor: [Guangming Xie](https://www.coe.pku.edu.cn/teaching/all_time/7139.html)<br>
+  - Advisor: Guangming Xie<br>
   - Research topics: Information Retrieval, Recommender systems, Deep Reinforcement Learning<br>
   - Thesis: Research on Long-term Value of Items in Reinforcement Learning-based Recommendation Systems.
 - <div style="display: flex; justify-content: space-between;">
@@ -46,7 +46,7 @@ INDUSTRY EXPERIENCES
   - Industry topics: Large Language Model,AIGC(AI-Generated Content)
 
 - <div style="display: flex; justify-content: space-between;">
-    <div><strong>2022.07-2023.01 &emsp;&emsp;&emsp;&emsp;&emsp;Research Intern(研究实习生)</strong></div>
+    <div><strong>2022.07-2023.01 &emsp;&emsp;&emsp;&emsp;Research Intern(研究实习生)</strong></div>
     <div style="margin-left: auto;"><strong>ShangHai AI Lab(上海人工智能实验室)</strong></div>
   - Advisor: Yu Tang, Henjie Li<br>
   - Research topics: Large-scale training frameworks
