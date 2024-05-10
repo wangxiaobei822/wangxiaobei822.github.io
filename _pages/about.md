@@ -95,7 +95,7 @@ Projects
   
 AWARDS & HONORS
 ------
-
+- 2024  Outstanding Graduate Student Award of Peking university
 - 2023	Award for Ubiquant Scholarship of Peking university.
 - 2023	Award for Academic Excellents of Peking university.
 - 2022  Champion of the 11th Capital University's Dragon Boat Championships 
