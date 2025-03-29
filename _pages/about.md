@@ -66,10 +66,14 @@ INDUSTRY EXPERIENCES
 
 Projects
 ======
+
+RL4Rec
+====
 - **[Future Impact Decomposition in Request-level Recommendations](https://arxiv.org/abs/2401.16108)** (Work was done at Kuaishou Technology & Intelligent Biomimetic Design Lab in Peking University)<br>
   ![](../images/item.png)
   - We specify the challenge of inconsistency between users' item-wise view and the recommender system's list-wise view. To solve the challenges mentioned above, we propose an item-decomposed advantage actor-critic framework and verify its superiority on multiple public datasets and an online A/B test.<br>
   - The paper is accepted by KDD 2024(Ads track)
+  - Xiaobei Wang*, Shuchang Liu*, Xueliang Wang, Qingpeng Cai, Lantao Hu, Han Li, Peng Jiang, Kun Gai, Guangming Xie
   
   
   
@@ -77,12 +81,19 @@ Projects
 - **Value Function Decomposition in Markov Recommendation Process** (Work was done at Kuaishou Technology & Intelligent Biomimetic Design Lab in Peking University)<br>
   ![](../images/TD.png)
   - We specify the challenge of sub-optimal TD learning under the mixed random factors from policy and user environment and propose a decomposed TD learning framework that separately addresses the two random factors and empirically shows its superiority in online MRP. <br>
-  - The paper is submitted to KDD 2024(research track)
+  - The paper is accepted by WWW 2025(research track)
+  - Xiaobei Wang*, Shuchang Liu*, Qingpeng Cai, Xiang Li, Lantao Hu, Han li, Guangming Xie
 
-- **Financial Text Analysis and Stock Image Forecasting** (Work was done at Finlab in Peking University)<br>
 
-  - We conduct a research project merging ML, NLP to analyze the impact of news text on multiple stocks and investigate the correlation between textual information and stock performance.
-  - We implement image analysis to generate stock Candlestick chart images, assessed different models for accuracy, and leveraged predictive factors to construct a profitable investment portfolio.
+ReRank
+====
+
+
+
+LLM
+====
+
+
 
 - **LLM(Large Language Model) for TikTok E-Commerce Network Broadcast** (Work was done at ByteDance)<br>
   - We prompt LLM to generate product titles based on product information.
@@ -99,7 +110,12 @@ Projects
   - AutoScale consists of three extendable modules, namely Search Space, Cost Model, and Search Module, which regards the 3D Parallel from a unified formulation and utilizes paralleled search algorithms to scale search modules automatically.  
 
 
+#### 通过 Markdown 解析达到注释效果
 
+[//]: (- **Financial Text Analysis and Stock Image Forecasting** (Work was done at Finlab in Peking University)<br>
+
+  - We conduct a research project merging ML, NLP to analyze the impact of news text on multiple stocks and investigate the correlation between textual information and stock performance.
+  - We implement image analysis to generate stock Candlestick chart images, assessed different models for accuracy, and leveraged predictive factors to construct a profitable investment portfolio.）
   
 AWARDS & HONORS
 ------
