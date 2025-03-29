@@ -76,7 +76,7 @@ Projects
   
   
 
-- **Value Function Decomposition in Markov Recommendation Process** (Work was done at Kuaishou Technology & Intelligent Biomimetic Design Lab in Peking University)<br>
+- **[Value Function Decomposition in Markov Recommendation Process](https://arxiv.org/abs/2501.17409)** (Work was done at Kuaishou Technology & Intelligent Biomimetic Design Lab in Peking University)<br>
   ![](../images/TD.png)
   - We specify the challenge of sub-optimal TD learning under the mixed random factors from policy and user environment and propose a decomposed TD learning framework that separately addresses the two random factors and empirically shows its superiority in online MRP. <br>
   - The paper is accepted by WWW 2025(research Track)
@@ -84,6 +84,7 @@ Projects
 
 - **Enhancing Generator Performance via GRPO-driven Evaluator Guidance** (Working in Kuaishou Technology)<br>
   ![](../images/Grpo.png)
+  - Reranking suffers from sample selection bias due to exposed lists and the generator's unawareness of the evaluator's optimal points. We obtain counterfactual labels from the evaluator, and perform contrastive learning with unexposed lists . The evaluator guide the generator to learn superior recommendation strategies with GRPO.
 
 * * *
 
@@ -91,10 +92,13 @@ Projects
 
 - **Comprehensive List Generation for Multi-Generator Reranking** (Work was done at Kuaishou Technology)<br>
 ![](../images/MGRerank.png)
+  - We presents a multi-generator-evaluator (MG-E) framework for the reranking task in recommender systems, aiming to address the limitations of existing single - generator model. We introduces the List Comprehensiveness (LC) metric to evaluate list diversity and proposes the Complementary List Generation (CLIG) technique to automatically find complementary generators.
 
-- The paper is submitted to  SIGIR 2025
+  - The paper is submitted to  SIGIR 2025
 
 - **KuaiReank: A Benchmark for Generator-Evaluator paradigm ReRank** (Working in Kuaishou Technology)<br>
+  - We have devised a two-stage re-ranking benchmark. Aiming to align with industrial practices, in the context of the dataset, we presented desensitized XTR features for precision in the later stage of the recommendation pipeline. We implemented the multi-generator strategy and sequence value modeling for evaluator.
+  
 
 
 
@@ -106,16 +110,17 @@ Projects
 
 - **Tag-based Collaborative Logic Filtering in Recommender Systems** (Work was done at Kuaishou Technology)<br>
 ![](../images/Logic.png)
+  - We leverage LLMs to describe users and videos via tags. Our proposed logical model predicts user - item compatibility based on tag features. By exploring tag - based matching, we achieve interpretable recommendations and break the information bubble by uncovering users' latent interests.
 
-
-- The paper is submitted to SIGIR 2025
+  - The paper is submitted to SIGIR 2025
 
 
 - **VLM as Policy: Common-Law Content Moderation Framework for Short Video Platform** (Work was done at Kuaishou Technology)<br>
  ![](../images/VLM.png)
+  - we present a novel approach that leverages large language models (LLMs) for video understanding and Chain of Thought (CoT) reasoning to automate the review of non - compliant videos. Additionally, we open - source the toxicity dataset, establishing it as a benchmark for ecological governance.
 
 
-- The paper is submitted to KDD 2025(Ads Track)
+  - The paper is submitted to KDD 2025(Ads Track)
 
 
 
