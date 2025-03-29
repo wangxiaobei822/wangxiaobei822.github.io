@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-family: Helvetica"> Here is Xiaobei Wang(王潇北)’s Page. I’m currently a Algorithm Engineer in KuaiShou Technology(快手).  I am responsible for RL4Rec and LLM4Rec in Rerank stage to improve platform performance and user experience. My core research interest is Deep Reinforcement Learning, AI for Finance, Recommender Systems, Data Mining and LLM(Large Language Model).</span>
+<span style="font-family: Helvetica"> Here is Xiaobei Wang(王潇北)’s Page. I’m currently a Algorithm Engineer in KuaiShou Technology(快手).  I am responsible for improving platform performance and user experience in Rerank stage. My core research interest is Deep Reinforcement Learning, AI for Finance, Recommender Systems, Data Mining and LLM(Large Language Model).</span>
 
 Before that, I was a graduate student in [College of Engineering(工学院)](https://www.coe.pku.edu.cn/) at [Peking University(北京大学)](https://www.pku.edu.cn/) , supervised by [Prof. Guangming Xie(谢广明)](https://www.coe.pku.edu.cn/teaching/all_time/7139.html). My research interest mainly include 
 During my journey in Peking university, I was a member of [Intelligent Biomimetic Design Lab(北京大学智能仿生设计实验室)](https://en.ibdl.pku.edu.cn) advised by [Prof. Guangming Xie(谢广明)](https://www.coe.pku.edu.cn/teaching/all_time/7139.html), focusing on developing robust, efficient and practical reinforcement learning algorithms for recommender systems. I also joined [FinLab(北京大学金融工程实验室)](finlab.pku.edu.cn) advised by [Prof. Shaoran Li(李少然)](http://lishaoran.com) and [Prof. Xinping Li(黎新平)](https://econ.pku.edu.cn/szdw/zzjs/ybjs/sjrxx/374743.htm), exploring application of deep learning and reinforcement learning in practical Finance or Economics problems.
@@ -67,13 +67,12 @@ INDUSTRY EXPERIENCES
 Projects
 ======
 
-<font size="3">**RL4Rec**</font>
+<font size="5">**RL4Rec**</font>
 
 - **[Future Impact Decomposition in Request-level Recommendations](https://arxiv.org/abs/2401.16108)** (Work was done at Kuaishou Technology & Intelligent Biomimetic Design Lab in Peking University)<br>
   ![](../images/item.png)
   - We specify the challenge of inconsistency between users' item-wise view and the recommender system's list-wise view. To solve the challenges mentioned above, we propose an item-decomposed advantage actor-critic framework and verify its superiority on multiple public datasets and an online A/B test.<br>
-  - The paper is accepted by KDD 2024(Ads track)
-  - Xiaobei Wang*, Shuchang Liu*, Xueliang Wang, Qingpeng Cai, Lantao Hu, Han Li, Peng Jiang, Kun Gai, Guangming Xie
+  - The paper is accepted by KDD 2024(Ads Track)
   
   
   
@@ -81,21 +80,53 @@ Projects
 - **Value Function Decomposition in Markov Recommendation Process** (Work was done at Kuaishou Technology & Intelligent Biomimetic Design Lab in Peking University)<br>
   ![](../images/TD.png)
   - We specify the challenge of sub-optimal TD learning under the mixed random factors from policy and user environment and propose a decomposed TD learning framework that separately addresses the two random factors and empirically shows its superiority in online MRP. <br>
-  - The paper is accepted by WWW 2025(research track)
-  - Xiaobei Wang*, Shuchang Liu*, Qingpeng Cai, Xiang Li, Lantao Hu, Han li, Guangming Xie
+  - The paper is accepted by WWW 2025(research Track)
+ 
+
+- **Enhancing Generator Performance via GRPO-driven Evaluator Guidance** (Working in Kuaishou Technology)<br>
+  ![](../images/GRPO.png)
 
 * * *
 
-<font size="3">**ReRank**</font>
+<font size="5">**ReRank**</font>
+
+- **Comprehensive List Generation for Multi-Generator Reranking** (Work was done at Kuaishou Technology)<br>
+![](../images/MGRerank.png)
+
+- The paper is submitted to  SIGIR 2025
+
+- **KuaiReank: A Benchmark for Generator-Evaluator paradigm ReRank** (Working in Kuaishou Technology)<br>
+
+
+- **KuaiReank: A Benchmark for Generator-Evaluator paradigm ReRank** (Working in Kuaishou Technology)<br>
 
 
 
 * * *
 
-<font size="3">**LLM**</font>
+<font size="5">**LLM**</font>
+
+- **Tag-based Collaborative Logic Filtering in Recommender Systems** (Work was done at Kuaishou Technology)<br>
+![](../images/Lgic.png)
+
+
+- The paper is submitted to SIGIR 2025
+
+
+- **VLM as Policy: Common-Law Content Moderation Framework for Short Video Platform** (Work was done at Kuaishou Technology)<br>
+ ![](../images/VLM.png)
+
+
+- The paper is submitted to KDD 2025(Ads Track)
 
 
 
+
+- **AutoScale: Automated Training and Evaluating Large-scale Models with Extendable Modules beyond 3D Parallel** (Work was done at Shanghai AI Lab)<br>
+![](../images/AutoScale.png)
+  - We propose a novel framework, AutoScale, getting rid of the dependence on the mathematical models of current auto parallel algorithms.
+  - AutoScale consists of three extendable modules, namely Search Space, Cost Model, and Search Module, which regards the 3D Parallel from a unified formulation and utilizes paralleled search algorithms to scale search modules automatically.
+  - 
 - **LLM(Large Language Model) for TikTok E-Commerce Network Broadcast** (Work was done at ByteDance)<br>
   - We prompt LLM to generate product titles based on product information.
   - we conduct research on the current status and key technologies of Chinese open-source large language models, such as ChatGLM.
@@ -104,11 +135,6 @@ Projects
 
 
 
-
-- **AutoScale: Automated Training and Evaluating Large-scale Models with Extendable Modules beyond 3D Parallel** (Work was done at Shanghai AI Lab)<br>
-![](../images/AutoScale.png)
-  - We propose a novel framework, AutoScale, getting rid of the dependence on the mathematical models of current auto parallel algorithms.
-  - AutoScale consists of three extendable modules, namely Search Space, Cost Model, and Search Module, which regards the 3D Parallel from a unified formulation and utilizes paralleled search algorithms to scale search modules automatically.  
 
 
 
