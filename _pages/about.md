@@ -66,7 +66,7 @@ INDUSTRY EXPERIENCES
 Projects
 ======
 
-**<font size="5">RL4Rec</font>**
+**<font size="4">RL4Rec</font>**
 
 - **[Future Impact Decomposition in Request-level Recommendations](https://arxiv.org/abs/2401.16108)** (Work was done at Kuaishou Technology & Intelligent Biomimetic Design Lab in Peking University)<br>
   ![](../images/item.png)
@@ -87,7 +87,7 @@ Projects
 
 * * *
 
-**<font size="5">ReRank</font>**
+**<font size="4">ReRank</font>**
 
 - **Comprehensive List Generation for Multi-Generator Reranking** (Work was done at Kuaishou Technology)<br>
 ![](../images/MGRerank.png)
@@ -102,7 +102,7 @@ Projects
 
 * * *
 
-**<font size="5">LLM</font>**
+**<font size="4">LLM</font>**
 
 - **Tag-based Collaborative Logic Filtering in Recommender Systems** (Work was done at Kuaishou Technology)<br>
 ![](../images/Logic.png)
