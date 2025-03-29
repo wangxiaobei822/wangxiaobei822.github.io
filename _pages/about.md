@@ -84,7 +84,7 @@ Projects
  
 
 - **Enhancing Generator Performance via GRPO-driven Evaluator Guidance** (Working in Kuaishou Technology)<br>
-  ![](../images/GRPO.png)
+  ![](../images/Grpo.png)
 
 * * *
 
@@ -98,7 +98,6 @@ Projects
 - **KuaiReank: A Benchmark for Generator-Evaluator paradigm ReRank** (Working in Kuaishou Technology)<br>
 
 
-- **KuaiReank: A Benchmark for Generator-Evaluator paradigm ReRank** (Working in Kuaishou Technology)<br>
 
 
 
