@@ -66,9 +66,9 @@ INDUSTRY EXPERIENCES
 
 Projects
 ======
-
+* * *
 RL4Rec
-====
+=
 - **[Future Impact Decomposition in Request-level Recommendations](https://arxiv.org/abs/2401.16108)** (Work was done at Kuaishou Technology & Intelligent Biomimetic Design Lab in Peking University)<br>
   ![](../images/item.png)
   - We specify the challenge of inconsistency between users' item-wise view and the recommender system's list-wise view. To solve the challenges mentioned above, we propose an item-decomposed advantage actor-critic framework and verify its superiority on multiple public datasets and an online A/B test.<br>
