@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-family: Helvetica"> Here is Xiaobei Wang(王潇北)’s Page. I’m currently a Algorithm Engineer in KuaiShou Technology(快手科技).  I am responsible for improving platform performance and user experience in Rerank stage. My core research interest is Deep Reinforcement Learning, AI for Finance, Recommender Systems, Data Mining and LLM(Large Language Model).</span>
+<span style="font-family: Helvetica"> Here is Xiaobei Wang(王潇北)’s Page. I’m currently a Algorithm Engineer in [KuaiShou Technology(快手科技)](https://www.kuaishou.com/).  I am responsible for improving platform performance and user experience in Rerank stage. My core research interest is Deep Reinforcement Learning, AI for Finance, Recommender Systems, Data Mining and LLM(Large Language Model).</span>
 
 Before that, I was a graduate student in [Intelligent Biomimetic Design Lab(北京大学智能仿生设计实验室)](https://en.ibdl.pku.edu.cn),[College of Engineering(工学院)](https://www.coe.pku.edu.cn/) at [Peking University(北京大学)](https://www.pku.edu.cn/) , supervised by [Prof. Guangming Xie(谢广明)](https://www.coe.pku.edu.cn/teaching/all_time/7139.html).  I also joined [FinLab(北京大学金融工程实验室)](finlab.pku.edu.cn) advised by [Prof. Shaoran Li(李少然)](http://lishaoran.com) and [Prof. Xinping Li(黎新平)](https://econ.pku.edu.cn/szdw/zzjs/ybjs/sjrxx/374743.htm), exploring application of deep learning and reinforcement learning in practical Finance or Economics problems.
 
