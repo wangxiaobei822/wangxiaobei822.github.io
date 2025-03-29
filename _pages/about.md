@@ -67,7 +67,7 @@ INDUSTRY EXPERIENCES
 Projects
 ======
 
-<font size="2">**RL4Rec**</font>
+<font size="3">**RL4Rec**</font>
 
 - **[Future Impact Decomposition in Request-level Recommendations](https://arxiv.org/abs/2401.16108)** (Work was done at Kuaishou Technology & Intelligent Biomimetic Design Lab in Peking University)<br>
   ![](../images/item.png)
@@ -85,12 +85,12 @@ Projects
   - Xiaobei Wang*, Shuchang Liu*, Qingpeng Cai, Xiang Li, Lantao Hu, Han li, Guangming Xie
 
 
-ReRank
+<font size="3">**ReRank**</font>
 ====
 
 
 
-LLM
+<font size="3">**LLM**</font>
 ====
 
 
