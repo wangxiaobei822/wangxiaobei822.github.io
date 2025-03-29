@@ -84,14 +84,13 @@ Projects
   - The paper is accepted by WWW 2025(research track)
   - Xiaobei Wang*, Shuchang Liu*, Qingpeng Cai, Xiang Li, Lantao Hu, Han li, Guangming Xie
 
-
+\*\*\*
 <font size="3">**ReRank**</font>
-====
 
 
 
+\*\*\*
 <font size="3">**LLM**</font>
-====
 
 
 
@@ -110,12 +109,11 @@ Projects
   - AutoScale consists of three extendable modules, namely Search Space, Cost Model, and Search Module, which regards the 3D Parallel from a unified formulation and utilizes paralleled search algorithms to scale search modules automatically.  
 
 
-#### 通过 Markdown 解析达到注释效果
 
-[//]: (- **Financial Text Analysis and Stock Image Forecasting** (Work was done at Finlab in Peking University)<br>
+<!-- - **Financial Text Analysis and Stock Image Forecasting** (Work was done at Finlab in Peking University)<br>
 
   - We conduct a research project merging ML, NLP to analyze the impact of news text on multiple stocks and investigate the correlation between textual information and stock performance.
-  - We implement image analysis to generate stock Candlestick chart images, assessed different models for accuracy, and leveraged predictive factors to construct a profitable investment portfolio.）
+  - We implement image analysis to generate stock Candlestick chart images, assessed different models for accuracy, and leveraged predictive factors to construct a profitable investment portfolio.）-->
   
 AWARDS & HONORS
 ------
