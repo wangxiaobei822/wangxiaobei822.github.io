@@ -129,7 +129,8 @@ Projects
 ![](../images/AutoScale.png)
   - We propose a novel framework, AutoScale, getting rid of the dependence on the mathematical models of current auto parallel algorithms.
   - AutoScale consists of three extendable modules, namely Search Space, Cost Model, and Search Module, which regards the 3D Parallel from a unified formulation and utilizes paralleled search algorithms to scale search modules automatically.
-  - 
+
+   
 <!--- **LLM(Large Language Model) for TikTok E-Commerce Network Broadcast** (Work was done at ByteDance)<br>
   - We prompt LLM to generate product titles based on product information.
   - we conduct research on the current status and key technologies of Chinese open-source large language models, such as ChatGLM.
