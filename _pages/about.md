@@ -117,7 +117,7 @@ Projects
 
 - **VLM as Policy: Common-Law Content Moderation Framework for Short Video Platform** (Work was done at Kuaishou Technology)<br>
  ![](../images/VLM.png)
-  - we present a novel approach that leverages large language models (LLMs) for video understanding and Chain of Thought (CoT) reasoning to automate the review of non - compliant videos. Additionally, we open - source the toxicity dataset, establishing it as a benchmark for ecological governance.
+  - We present a novel approach that leverages large language models (LLMs) for video understanding and Chain of Thought (CoT) reasoning to automate the review of non - compliant videos. Additionally, we open - source the toxicity dataset, establishing it as a benchmark for ecological governance.
 
 
   - The paper is submitted to KDD 2025(Ads Track)
