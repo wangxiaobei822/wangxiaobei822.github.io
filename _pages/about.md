@@ -84,12 +84,14 @@ Projects
   - The paper is accepted by WWW 2025(research track)
   - Xiaobei Wang*, Shuchang Liu*, Qingpeng Cai, Xiang Li, Lantao Hu, Han li, Guangming Xie
 
-\*\*\*
+* * *
+
 <font size="3">**ReRank**</font>
 
 
 
-\*\*\*
+* * *
+
 <font size="3">**LLM**</font>
 
 
