@@ -91,8 +91,6 @@ Projects
 **<font size="4">ReRank</font>**
 
 - **Comprehensive List Generation for Multi-Generator Reranking** (Work was done at Kuaishou Technology)<br>
-![](../images/MGRerank.png)
-  - We presents a multi-generator-evaluator (MG-E) framework for the reranking task in recommender systems, aiming to address the limitations of existing single - generator model. We introduces the List Comprehensiveness (LC) metric to evaluate list diversity and proposes the Complementary List Generation (CLIG) technique to automatically find complementary generators.
 
   - The paper is submitted to  SIGIR 2025
 
@@ -109,8 +107,7 @@ Projects
 **<font size="4">LLM</font>**
 
 - **Tag-based Collaborative Logic Filtering in Recommender Systems** (Work was done at Kuaishou Technology)<br>
-![](../images/Logic.png)
-  - We leverage LLMs to describe users and videos via tags. Our proposed logical model predicts user - item compatibility based on tag features. By exploring tag - based matching, we achieve interpretable recommendations and break the information bubble by uncovering users' latent interests.
+
 
   - The paper is submitted to SIGIR 2025
 
