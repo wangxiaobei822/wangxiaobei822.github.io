@@ -24,11 +24,11 @@ author:
   avatar           : "wxb.png"
   name             : "Xiaobei Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Algorithm Engineer in KuaiShou Technology \n\n Phone:15005521555 \n\n Wechat:W_xb-22 \n\n Email:wangxiaobei03@kuaishou.com \n\n School: Peking University \n\n Location:Beijing, China"
-  location         : #"Beijing, China"
-  employer         : #"Peking University"
+  bio              : "Algorithm Engineer in KuaiShou Technology "
+  location         : "Beijing, China"
+  employer         : "Peking University"
   uri              : # URL
-  email            : #"wangxiaobei03@kuaishou.com"
+  email            : "wangxiaobei03@kuaishou.com"
   
 
   # Academic websites
