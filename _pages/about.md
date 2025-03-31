@@ -82,7 +82,7 @@ Projects
   - The paper is accepted by WWW 2025(research Track)
  
 
-- **Enhancing Generator Performance via GRPO-driven Evaluator Guidance** (Working in Kuaishou Technology)<br>
+- **Enhancing Generator Performance via Evaluator Guidance by Grpo** (Working in Kuaishou Technology)<br>
   ![](../images/Grpo.png)
   - Reranking suffers from sample selection bias due to exposed lists and the generator's unawareness of the evaluator's optimal points. We obtain counterfactual labels from the evaluator, and perform contrastive learning with unexposed lists . The evaluator guide the generator to learn superior recommendation strategies with GRPO.
 
