@@ -90,7 +90,7 @@ Projects
 
 **<font size="4">ReRank</font>**
 
-- **Comprehensive List Generation for Multi-Generator Reranking** (Work was done at Kuaishou Technology)<br>
+- **Multi-Generator Reranking** (Work was done at Kuaishou Technology)<br>
 
   - The paper is submitted to  SIGIR 2025
 
@@ -106,7 +106,7 @@ Projects
 
 **<font size="4">LLM</font>**
 
-- **Tag-based Collaborative Logic Filtering in Recommender Systems** (Work was done at Kuaishou Technology)<br>
+- **Tag-based Content Understanding and Collaborative Logic Rec** (Work was done at Kuaishou Technology)<br>
 
 
   - The paper is submitted to SIGIR 2025
