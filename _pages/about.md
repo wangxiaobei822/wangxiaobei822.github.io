@@ -16,7 +16,7 @@ Please feel free to contact me . Here are the ways to reach me:
 - Phone: 15005521555
 - WeChat: W_xb-22
   
-[Please Click to download my resume in PDF.](../images/wxb_cv.pdf)
+Please Click to download [my resume ](../images/wxb_cv.pdf) in PDF.
 
 Education
 ======
