@@ -15,7 +15,8 @@ Please feel free to contact me . Here are the ways to reach me:
 - Email: wangxiaobei03@kuaishou.com
 - Phone: 15005521555
 - WeChat: W_xb-22
-
+  
+[点击下载本地PDF](../images/wxb_cv.pdf)
 
 Education
 ======
